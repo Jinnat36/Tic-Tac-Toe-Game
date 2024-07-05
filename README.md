@@ -22,3 +22,4 @@ Enjoy playing Tic-Tac-Toe!
 
 OUTPUT :--
 
+![Screenshot 2024-07-05 203902](https://github.com/Jinnat36/Tic-Tac-Toe-Game/assets/157870456/0798d051-06a5-4e2a-8815-6786489061d4)
